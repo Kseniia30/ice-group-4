@@ -5,11 +5,11 @@
   "homepage": "https://goitacademy.github.io/parcel-project-template",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /group-4/"
+    "build": "parcel build src/*.html --public-url /ice-group-4/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kseniia30/group-4.git"
+    "url": "git+https://github.com/Kseniia30/ice-group-4.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
